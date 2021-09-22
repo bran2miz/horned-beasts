@@ -10,7 +10,7 @@ class Main extends React.Component {
     return( 
       <> 
         <HornedBeast title={'Ram'} imgURL={ram} description={'This is a beautiful ram that lives in the Swiss Alps'}/>
-        <HornedBeast title={'Reindeer'} imgURL={reindeer} description={'This is an amazing reindeer that might live in the North Pole'}/>
+        <HornedBeast title={'Reindeer'} imgURL={reindeer} description={'This is an amazing reindeer that might reside in the North Pole?'}/>
       </>
     );
   }
